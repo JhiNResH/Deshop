@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Deshop
 
 ## Technology Stack & Tools
@@ -31,5 +31,3 @@ In a separate terminal execute:
 ### 6. Start frontend
 `$ npm run start`
 =======
-# Deshop
->>>>>>> 11833e87e6197d7c3f220822e8ef7b0890885101
